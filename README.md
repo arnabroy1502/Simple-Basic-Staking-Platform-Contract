@@ -119,7 +119,7 @@ Foster a community of STX holders who actively participate in securing and growi
 **Local Testnet**: Available for local development and testing
 
 ### Stacks Testnet Deployment
-**Testnet Contract Address**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.simple-subscription`
+**Testnet Contract Address**: `STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.bsic-staking-platform`
 - **Network**: Stacks Testnet
 - **Deployment Status**: Ready for testnet deployment
 - **Verification**: Pending deployment
@@ -180,3 +180,4 @@ Security: Built-in validation and error handling
 ---
 
 *Simple, secure, and transparent staking for everyone on Stacks.*
+![image](https://github.com/user-attachments/assets/752bb8cd-fc36-4cb9-9340-9930aee736db)
