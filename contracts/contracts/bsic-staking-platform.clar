@@ -1,4 +1,4 @@
-bsic-staking-platform.clar
+
 ;; Simple Basic Staking Platform Contract
 
 (define-map stakes
